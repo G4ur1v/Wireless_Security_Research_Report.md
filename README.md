@@ -38,8 +38,11 @@ The issue was resolved by manually killing conflicting processes and forcing the
 Command Sequence:
 
 "sudo airmon-ng check kill"
+
 "sudo airmon-ng start wlan0"
+
 "sudo iwconfig wlan0mon mode monitor"
+
 
 This enabled the adapter to listen to all raw 802.11 frames on the frequency, bypassing the OS-level network stack restrictions.
 
