@@ -96,6 +96,6 @@ The integration of specialized chipsets and Kali Linux is essential for identify
 
 ---------------------------------------
 
-Prepared By: [Gaurav Khairnar]
+Prepared By: Gaurav Khairnar
 Date: 3 April 2026
 License: MIT (Educational Use Only)
